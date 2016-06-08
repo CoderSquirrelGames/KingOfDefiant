@@ -1,0 +1,14 @@
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\Photon3Unity3D.dll
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\Photon3Unity3D.pdb
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\Temp\UnityVS_bin\Debug\Photon3Unity3D.xml
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\obj\Debug\UnityVS.KingOfDefiantWithPhoton.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\sane\Desktop\DG\KingOfDefiantWithPhoton\obj\Debug\Assembly-CSharp-firstpass.pdb
